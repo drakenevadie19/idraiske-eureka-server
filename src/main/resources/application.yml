@@ -1,0 +1,8 @@
+server:
+#  Set server port to call
+  port: 8761
+
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka: false
